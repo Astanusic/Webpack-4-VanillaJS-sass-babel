@@ -1,4 +1,4 @@
-# Simple Webpack 4 Rdy-to-code
+# Simple Webpack 4 Config => Rdy-to-code
 
 The idea is just to have a ready to code webpack config.  
 It also minify css and js in an optimized way.  
