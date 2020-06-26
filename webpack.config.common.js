@@ -11,7 +11,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      filename: "index.htm",
+      filename: "index.html",
       inject: true,
       template: path.resolve(__dirname, "src", "index.html"),
     }),
