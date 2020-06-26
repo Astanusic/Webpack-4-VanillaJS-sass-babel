@@ -53,4 +53,18 @@ $ yarn build
 
 #### Next features
 
-Assets such as images handle
+Handle Output Management so =>
+
+Instead of having a global /assets directory that contains everything, you can groups assets with the code that uses them.  
+For exemple check this structure:
+
+```bash
+/components/
+/components/component-name/
+/components/component-name/index.jsx
+/components/component-name/index.css
+/components/component-name/icon.svg
+/components/component-name/img.png
+```
+
+Way more portable, you can even reuse this "component" in an other project as long as your dependencies belong the same.
