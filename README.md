@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://webpack.js.org/" target="_blank">
+    <img alt="Webpack Official" src="https://www.alsacreations.com/xmedia/doc/original/webpack-logo-horizontal.png">
+  </a>
+</p>
+
 # Simple Webpack 4 Config => Rdy-to-code
 
 The idea is just to have a ready to code webpack config.  
