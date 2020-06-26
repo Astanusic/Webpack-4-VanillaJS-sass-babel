@@ -1,4 +1,18 @@
+import test from "./test";
+import testImg from "./1583852409.456581.jpg";
 import "./index.scss";
+
+test();
+
+function component() {
+  const element = document.createElement("div");
+  const myImg = new Image();
+  myImg.src = testImg;
+  element.appendChild(myImg);
+  return element;
+}
+
+document.body.appendChild(component());
 
 const p = document.createElement("p");
 p.textContent = "is it working ?!";

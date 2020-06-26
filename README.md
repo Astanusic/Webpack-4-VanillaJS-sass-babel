@@ -5,8 +5,6 @@
 </p>
 
 
-
-
 # Simple Webpack 4 Config => Rdy-to-code
 
 
