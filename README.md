@@ -4,7 +4,9 @@
   </a>
 </p>
 
+
 # Simple Webpack 4 Config => Rdy-to-code
+
 
 The idea is just to have a ready to code webpack config.  
 It also minify css and js in an optimized way.  
@@ -15,8 +17,7 @@ I used WebpackMerge so the shared config options between those two files are not
 
 #### Loaders
 
-- Dev Server with hot reload
-
+- Dev Server with hot reload  
 - You can type `ES06` and above, and also use `JSX` \* Babel-loader
 - You can use `S[ac]ss` as it will compile into `css` files \* sass-loader - css-loader - style-loader
 
