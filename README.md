@@ -4,11 +4,7 @@
   </a>
 </p>
 
-<<<<<<< HEAD
-# Simple Webpack 4 Rdy-to-code
-=======
 # Simple Webpack 4 Config => Rdy-to-code
->>>>>>> 27fe19f49f1655a49f6126464c1fdbbd0a782e11
 
 The idea is just to have a ready to code webpack config.  
 It also minify css and js in an optimized way.  
